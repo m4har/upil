@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/m4har/upil/issues"
   },
-  "homepage": "https://github.com/m4har/upil#readme"
+  "homepage": "https://github.com/m4har/upil#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
